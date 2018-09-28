@@ -1,0 +1,26 @@
+
+
+
+
+file.xvc.men {
+tls {
+dns dnspod
+}
+gzip
+header / -Server
+header / -Vary
+
+header / {
+Cache-Control "public,max-age=1"
+}
+root /home/dev/file
+browse
+log  / /var/log/caddy/xvc.men/file.log.log "{status} {size} {when_unix} {remote} {method} {uri_escaped} \"{>Referer}\" \"{>User-Agent}\""
+errors /var/log/caddy/xvc.men/file.err.log "{status} {size} {when_unix} {remote} {method} {uri_escaped} \"{>Referer}\" \"{>User-Agent}\"" 
+
+}
+
+
+
+
+
