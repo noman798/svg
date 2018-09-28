@@ -5,7 +5,7 @@
 
 ## 赞助商
 
-[![](https://file.xvc.men/test.svg "赞助商")](http://baidu.com)
+[![](https://file.xvc.men/t1.svg "赞助商")](http://baidu.com)
 
 [![](https://raw.githubusercontent.com/wiki/adda-team/adda/img/sphere_dda.svg?sanitize=true "SVG测试")](http://baidu.com)
 
