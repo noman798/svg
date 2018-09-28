@@ -5,7 +5,8 @@
 
 ## 赞助商
 
-![](https://file.xvc.men/test.svg)
+[![](https://file.xvc.men/test.svg "赞助商")](http://baidu.com)
+
 
 ##  主要功能
 
