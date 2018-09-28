@@ -1,6 +1,5 @@
-# svg
-
 # React-Dou
+
 基于React-Native & 豆瓣Open API 搜索应用
 
 ## 赞助商
