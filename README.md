@@ -3,6 +3,10 @@
 # React-Dou
 基于React-Native & 豆瓣Open API 搜索应用
 
+## 赞助商
+
+![](https://file.xvc.men/test.svg)
+
 ##  主要功能
 
 + 图书搜索、列表、详情
